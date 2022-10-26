@@ -2,4 +2,7 @@
 2. git add . - добавляет файлы в stage
 3. git commit -m 'comment' - запись изменений (коммит)
 4. git log / git log --oneline - информация о коммитах
-5. git push [rep_link] [branch_name] - отправка измений на удаленный репозиторий 
+5. git push [rep_link] [branch_name] - отправка измений на удаленный репозиторий (git hush origin master)
+6. git reset [file] - убрать файл из stage
+7. git diff / git diff [file] - изменённые или добавленные строки / изменённые или добавленные строки в определенном файле
+8. git reset --hard - отмена всех изменений  
