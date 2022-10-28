@@ -7,5 +7,6 @@
 7. git diff / git diff [file] - изменённые или добавленные строки / изменённые или добавленные строки в определенном файле
 8. git reset --hard - отмена всех изменений
 9. git branch - все ветки, которые есть 
-10. git branch develope - создание ветки develope 
-11. git checkout develope - переключиться на ветку develope
+10. git branch develop - создание ветки develop
+11. git checkout develop - переключиться на ветку develop
+12. git branch -d develop - удаление ветки локально!
