@@ -5,4 +5,8 @@
 5. git push [rep_link] [branch_name] - отправка измений на удаленный репозиторий (git hush origin master)
 6. git reset [file] - убрать файл из stage
 7. git diff / git diff [file] - изменённые или добавленные строки / изменённые или добавленные строки в определенном файле
-8. git reset --hard - отмена всех изменений  
+8. git reset --hard - отмена всех изменений
+9. git branch - все ветки, которые есть 
+10. git branch develop - создание ветки develop
+11. git checkout develop - переключиться на ветку develop
+12. git branch -d develop - удаление ветки локально!
